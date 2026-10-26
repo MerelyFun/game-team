@@ -1,0 +1,8 @@
+interface:
+
+  display_name: "小游戏完整团队"
+
+  short_description: "组织制作、玩法数值策划、技术、美术与独立验收，复用当前项目规则；三位完成评审已禁用"
+
+  default_prompt: "使用 $game-team 接手当前小游戏项目，按当前规则组织完整团队推进我的任务。"
+
